@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me:
 
-my steam: steamcommunity.com/id/dyrtool
-
 my discord: dyrtool#0309
 
 
