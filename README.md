@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me:
+
 my Steam: steamcommunity.com/id/dyrtool
 my Discord: dyrtool#0309
 
-
-
-test
 
 <!---
 dyrtool/dyrtool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
