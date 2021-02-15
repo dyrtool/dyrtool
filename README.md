@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python🐍 and C#
 - 📫 How to reach me:
 -     discord: dyrtool#0309
--     steam: https://steamcommunity.com/id/dyrtool
+      steam: steamcommunity.com/id/dyrtool
 - 💪 Friends
 -     @Dexaas
 <!--- - 💞️ I’m looking to collaborate on idk --->
