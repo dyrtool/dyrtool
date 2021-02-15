@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dyrtool
 - 👀 I’m interested in programming, IT security and video games
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me:
 My Steam: steamcommunity.com/id/dyrtool
