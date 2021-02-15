@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 -     Discord: dyrtool#0309
       Steam: steamcommunity.com/id/dyrtool
+- https://steamcommunity.com/id/dyrtool
 - 💪 Friends
 -     @Dexaas
 <!--- - 💞️ I’m looking to collaborate on idk --->
