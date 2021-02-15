@@ -2,9 +2,7 @@
 - 👀 I’m interested in programming, IT security and video games
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me:
-
-my discord: dyrtool#0309
+- 📫 How to reach me: discord: dyrtool#0309
 
 
 <!---
