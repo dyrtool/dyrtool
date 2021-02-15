@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: discord: dyrtool#0309
 
+stats or something:
+
+[![dyrtool's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyrtool)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dyrtool/dyrtool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
