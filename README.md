@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming😎, IT security💻 and video games🎮
 - 🌱 I’m currently learning Python🐍 and C#
 - 📫 How to reach me:
-  - Discord: dyrtool#0309
-  - Steam: https://steamcommunity.com/id/dyrtool
+  - Discord: [dyrtool#0309](https://discord.com/users/335429921235140608)
+  - Steam: [dyrtool](https://steamcommunity.com/id/dyrtool)
 - 💪 Friends
   - [@Dexaas](https://github.com/Dexaas)
 <!--- - 💞️ I’m looking to collaborate on idk --->
