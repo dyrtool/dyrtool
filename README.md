@@ -5,7 +5,7 @@
   - Discord: dyrtool#0309
   - Steam: https://steamcommunity.com/id/dyrtool
 - 💪 Friends
-  - @Dexaas
+  - @Dexaas(https://github.com/Dexaas)
 <!--- - 💞️ I’m looking to collaborate on idk --->
 
 [![dyrtool's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyrtool&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
