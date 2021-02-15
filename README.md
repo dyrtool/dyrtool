@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dyrtool
+### 👋 Hi, I’m @dyrtool
 - 👀 I’m interested in programming, IT security and video games
 - 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: discord: dyrtool#0309
