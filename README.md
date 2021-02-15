@@ -2,8 +2,10 @@
 - 👀 I’m interested in programming😎, IT security💻 and video games🎮
 - 🌱 I’m currently learning Python🐍 and C#
 - 📫 How to reach me:
-      - Discord: dyrtool#0309
-      - Steam: steamcommunity.com/id/dyrtool
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
 - 💪 Friends
 -     @Dexaas
 <!--- - 💞️ I’m looking to collaborate on idk --->
