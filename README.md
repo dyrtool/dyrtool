@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python🐍 and C#
 - 📫 How to reach me:
 -     discord: dyrtool#0309
--     steam: steamcommunity.com/id/dyrtool
+-     steam: https://steamcommunity.com/id/dyrtool
+- 💪 Friends
+-     @Dexaas
 <!--- - 💞️ I’m looking to collaborate on idk --->
 
 [![dyrtool's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyrtool&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
