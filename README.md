@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @dyrtool
-- 👀 I’m interested in programming😎, IT security💻 and video games🎮
+- 👀 I’m interested in programming😎, IT security💻
 - 🌱 I’m currently learning C# and Python🐍
 - 📫 How to reach me:
   - Discord: [dyrtool#0309](https://discord.com/users/335429921235140608)
