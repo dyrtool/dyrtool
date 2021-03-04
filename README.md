@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m @dyrtool
-- 👀 I’m interested in programming😎 and IT security💻
-- 🌱 I’m currently learning C# and Python🐍
+- 👀 I’m interested in programming and IT security
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me:
   - Discord: [dyrtool#0309](https://discord.com/users/335429921235140608)
   - Steam: [dyrtool](https://steamcommunity.com/id/dyrtool)
-- 💪 Friends
+- 🙃 Friends
   - [@Dexaas](https://github.com/Dexaas)
   - [@riki2137](https://github.com/riki2137)
 <!--- - 💞️ I’m looking to collaborate on idk --->
