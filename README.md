@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m @dyrtool
-- 👀 I’m interested in programming and IT security
 - 📫 My discord: [dyrtool#0309](https://discord.com/users/335429921235140608)
 
 <!---
