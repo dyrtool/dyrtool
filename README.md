@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @dyrtool
-- 📫 Matrix: @dyrtool:matrix.org
+- 📫 Matrix: [@dyrtool:matrix.org]()
 - 📫 Discord: [dyrtool#0309](https://discord.com/users/335429921235140608)
 
 <!---
